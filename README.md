@@ -25,8 +25,8 @@ A responsive app that displays released and upcoming movies using the TMDB API.
 - Smooth scrolling navigation
 - API data handling with TypeScript
 
-👉 (Add your repo link here)
+👉 github.com/DaltonJ-954
 
 ## 📫 Connect With Me
 - LinkedIn: linkedin.com/in/daltonwalls2026
-- Portfolio: (add link)
+- Portfolio: daltonj-954.github.io
