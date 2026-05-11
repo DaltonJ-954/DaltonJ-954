@@ -25,7 +25,7 @@ A responsive app that displays released and upcoming movies using the TMDB API.
 - Smooth scrolling navigation
 - API data handling with TypeScript
 
-## 🌍 Wanderly.AI — Key Features
+## 🌍 Traveler.AI — Key Features
 - 🧭 Location-Based Recommendations
 - Discover nearby places and businesses based on real-time GPS coordinates during travel.
 - 🔔 Smart Travel Notifications
